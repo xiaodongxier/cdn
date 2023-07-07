@@ -18,11 +18,13 @@
   "homepage": "https://github.com/xiaodongxier/cdn#readme",
   "dependencies": {
     "cz-conventional-changelog-zh": "^0.0.2",
-    "jquery": "^2.2.2"
+    "jquery": "^2.2.2",
+    "vue": "3.3.4"
   },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog-zh"
     }
-  }
+  },
+  "devDependencies": {}
 }
