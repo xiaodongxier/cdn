@@ -1,8 +1,14 @@
 # 库列表
 
-> 方便引用，解决临时测试等场景的使用，省去了下载、找 `cdn` 等环节
->
-> yarn add xxx
+> 添加方法：yarn add xxx
+> 
+> 说明：方便引用，解决临时测试等场景的使用，省去了下载、找 `cdn` 等环节
+> 地址：
+- [https://cdn.xiaodongxier.com](https://cdn.xiaodongxier.com)
+- [https://cdn.jsdelivr.net/gh/xiaodongxier/cdn](https://cdn.jsdelivr.net/gh/xiaodongxier/cdn)
+- [https://xiaodongxier.github.io/cdn](https://xiaodongxier.github.io/cdn)
+- [https://blog.xiaodongxier.com/cdn](https://blog.xiaodongxier.com/cdn)
+
 
 ```bash
 ├─ jquery                     
