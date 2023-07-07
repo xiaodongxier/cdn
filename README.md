@@ -16,9 +16,12 @@
 │     ├─ jquery.slim.js       
 │     ├─ jquery.slim.min.js   
 │     └─ jquery.slim.min.map  
+├─ vue                        
+│  └─ 2.7.14                  
+│     ├─ vue.js               
+│     └─ vue.min.js           
 ├─ CNAME                      
 ├─ README.md                  
-├─ directoryList.md           
 ├─ package.json               
 ├─ tree.text                  
 └─ yarn.lock                  
