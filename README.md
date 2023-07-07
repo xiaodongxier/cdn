@@ -4,7 +4,7 @@
 >
 > yarn add xxx
 
-```base
+```bash
 ├─ jquery                     
 │  ├─ 2.2.2                   
 │  │  ├─ jquery.js            
